@@ -39,7 +39,7 @@ div {
 	margin: auto;
 	margin-top: 30px;
 	padding: 20px 0px;
-	border-radius: 50px;
+	border-radius: 12px;
     background: #b5abd8;
     box-shadow:  27px 27px 49px #9f96be,
              -27px -27px 49px #cbc0f2;
@@ -119,10 +119,10 @@ footer input {
 	font-size: 18px;
 	border: none;
 	color: RGB(39,52,82);
-	border-radius: 50px;
+	border-radius: 12px;
     background: #b5abd8;
     box-shadow:  27px 27px 49px #9f96be,
-             -27px -27px 49px #cbc0f2;
+             -27px -10px 49px #cbc0f2;
     cursor: pointer;
 }
 
